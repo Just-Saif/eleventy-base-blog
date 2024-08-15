@@ -7,3 +7,6 @@ eleventyNavigation:
 # About Me
 
 I am a person that writes stuff.
+
+- This is the markdown version of a list
+- Another markdown list
