@@ -8,10 +8,7 @@ eleventyNavigation:
 
 I am a person that writes stuff.
 
- refactor/practice
-- This is the markdown version of a list
-- Another markdown list
+- Hello world 1
+- Hello world 2
 
-- markdown list Hello 1
-- markdown list Hello 2
-- main
+<p>Hello class</p>
