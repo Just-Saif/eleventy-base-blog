@@ -33,10 +33,13 @@
 		{#- Renders the CSS bundle using a separate file, if you can't set CSP directive style-src: 'unsafe-inline' #}
 		{#- <link rel="stylesheet" href="{% getBundleFileUrl "css" %}"> #}
 	</head>
-	<body>
+	<body>	
 		<a href="#skip" class="visually-hidden">Skip to main content</a>
 
 		<header>
+			<a href="/">
+				<img src="file:///media/fuse/crostini_0829523e57af0d8d37005c040b5ed399ea4a2b92_termina_penguin/file.jpg" alt="Site Logo" style="height: 50px;">
+			</a>
 			<a href="/" class="home-link">{{ metadata.title }}</a>
 
 			{#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
