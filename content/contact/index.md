@@ -6,5 +6,5 @@ eleventyNavigation:
 ---
 # Contact
 
-<a href="/blog/firstpost/">Email</a>
+<a href="/blog/firstpost/">First Post</a>
 
